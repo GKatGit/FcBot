@@ -9,6 +9,30 @@
       "title": "world!"
     }
   ],
+  "user": [
+    {
+      "id": 1,
+	  "fname":"Gaurav",
+	  "lname":"Kohli",
+      "mobile": "9818133397",
+	  "pan":"aoepk6589a",
+	  "invested":"4,18,000",
+	  "current":"4,78,622",
+	  "change":"60,622",
+	  "changeper":"14.5"
+    },
+    {
+      "id": 1,
+	  "fname":"Gaurav",
+	  "lname":"Kohli",
+      "mobile": "9818133397",
+	  "pan":"aoepk6589a",
+	  "invested":"4,18,000",
+	  "current":"4,78,622",
+	  "change":"60,622",
+	  "changeper":"14.5"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
